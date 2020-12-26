@@ -29,7 +29,11 @@ NORDIC nRF52833-DK
 
 
 
+The new flagship
 
+nRF5340 SoC
+
+[nRF5340 DK](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF5340-DK)
 
 
 
