@@ -49,5 +49,15 @@ TI launchpad AOA 2.4GHz BOOSTXL-AoA
 
 
 
+
+
 ## 算法
+
+可以看看滤波等定位算法
+
+
+
+## 前期调研
+
+iBeacon工作原理（记得只有信号强度，没有角度）
 
