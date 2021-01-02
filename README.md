@@ -19,7 +19,13 @@ AOA+大致距离
 
 [How AoA & AoD Changed the Direction of Bluetooth Location Services](https://www.bluetooth.com/blog/new-aoa-aod-bluetooth-capabilities/) BLUETOOTH BLOG
 
+品牌：
 
+[Silicon Labs Bluetooth Direction Finding Solution](https://www.silabs.com/products/wireless/learning-center/bluetooth/bluetooth-direction-finding)
+
+[Quuppa](http://www.quuppa.com/)
+
+[How Quuppa is Proving the New Direction of Bluetooth Location Services](https://www.bluetooth.com/blog/how-quuppa-is-proving-the-new-direction-of-bluetooth-location-services-and-remote-sensing-and-monitoring/)
 
 ## 学习通信电路
 
