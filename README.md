@@ -17,15 +17,73 @@ AOA+大致距离
 
 ## 市场调研
 
+
+
+Bluetooth SIG 的综述
+
 [How AoA & AoD Changed the Direction of Bluetooth Location Services](https://www.bluetooth.com/blog/new-aoa-aod-bluetooth-capabilities/) BLUETOOTH BLOG
+
+>  [1901_Enhancing-Bluetooth-Location-Service_FINAL.pdf](1901_Enhancing-Bluetooth-Location-Service_FINAL.pdf) 
+
+[New Bluetooth Direction Finding Feature Will Enhance Location Services Solutions](https://www.bluetooth.com/blog/new-direction-finding-feature/)
+
+[Bluetooth is Moving Proximity Solutions in the Right Direction](https://www.bluetooth.com/blog/bluetooth-proximity-solutions/)
+
+[Bluetooth is Getting Precise with Positioning Systems](https://www.bluetooth.com/blog/bluetooth-positioning-systems/)
+
+
+
+市场
+
+[2020 Bluetooth Market Update](https://www.bluetooth.com/bluetooth-resources/2020-bmu/?utm_campaign=bmu&utm_source=internal&utm_medium=web&utm_content=2020bmu-resourcepopup)
+
+>  [2020_Market_Update-EN.pdf](2020_Market_Update-EN.pdf) 
+
+
+
+案例
+
+Museum with multiple exhibits
+
+[National Gallery of Victoria Enhances Visitor Experience with Bluetooth Location Services](https://www.bluetooth.com/blog/ngv-bluetooth-location-services/)
+
+[Van Gough Museum in Amsterdam](https://blog.bluetooth.com/smart-building-use-cases?utm_campaign=location-services&utm_source=internal&utm_medium=blog&utm_content=bluetooth-proximity-solutions)
+
+Shopper in a store
+
+[Bluetooth Beacons are on **Target** with a Major Retailer](https://www.bluetooth.com/blog/bluetooth-beacons-are-on-target-with-a-major-retailer/)
+
+[How **Mall of America** is Leveraging the Power of Bluetooth Beacons](https://blog.bluetooth.com/mall-of-america?utm_campaign=location-services&utm_source=internal&utm_medium=blog&utm_content=AoA-AoD-direction-finding)
+
+[Gatwick Airport](https://blog.bluetooth.com/a-new-way-to-navigate?utm_campaign=location-services&utm_source=internal&utm_medium=blog&utm_content=bluetooth-positioning-systems)
+
+Item finding solutions
+
+[Tile trackers](https://www.theverge.com/circuitbreaker/2018/10/2/17924312/tile-mate-pro-premium-subscription-launch-battery-range-price)
+
+[Find Your Keys, Wallet & Phone with Tile’s App](https://www.thetileapp.com/en-us/)
+
+
 
 品牌：
 
 [Silicon Labs Bluetooth Direction Finding Solution](https://www.silabs.com/products/wireless/learning-center/bluetooth/bluetooth-direction-finding)
 
+>  [ew-2018-understanding-advanced-bluetooth-angle-estimation-techniques-for-real-time-locationing.pdf](ew-2018-understanding-advanced-bluetooth-angle-estimation-techniques-for-real-time-locationing.pdf) 
+
 [Quuppa](http://www.quuppa.com/)
 
 [How Quuppa is Proving the New Direction of Bluetooth Location Services](https://www.bluetooth.com/blog/how-quuppa-is-proving-the-new-direction-of-bluetooth-location-services-and-remote-sensing-and-monitoring/)
+
+
+
+技术细节
+
+[Bluetooth Core Specifications](https://www.bluetooth.com/specifications/bluetooth-core-specification/)
+
+> Bluetooth Core Specification Version 5.1 Feature Overview
+>
+>  [1901_Feature_Overview_Brief_FINAL.pdf](1901_Feature_Overview_Brief_FINAL.pdf) 
 
 ## 学习通信电路
 
