@@ -13,6 +13,12 @@ AOA+大致距离
 
 
 
+## 市场调研
+
+[How AoA & AoD Changed the Direction of Bluetooth Location Services](https://www.bluetooth.com/blog/new-aoa-aod-bluetooth-capabilities/) BLUETOOTH BLOG
+
+
+
 ## 蓝牙芯片
 
 TI、Nordic、NXP
