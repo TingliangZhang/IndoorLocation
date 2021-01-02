@@ -13,9 +13,17 @@ AOA+大致距离
 
 
 
+不改变原有的硬件，做手机为基站的指向性定位。
+
 ## 市场调研
 
 [How AoA & AoD Changed the Direction of Bluetooth Location Services](https://www.bluetooth.com/blog/new-aoa-aod-bluetooth-capabilities/) BLUETOOTH BLOG
+
+
+
+## 学习通信电路
+
+[How does an Antenna work? | ICT #4](https://www.youtube.com/watch?v=ZaXm6wau-jc) 
 
 
 
